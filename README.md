@@ -4,4 +4,4 @@
 <h2>Non-prime User: </h2>
 <p>username: raja <br/>password: raja@2021 </p>
 
-Deployed Link : https://aniecommerce.ccbp.tech
+Deployed Link : https://ecommerceani.ccbp.tech
